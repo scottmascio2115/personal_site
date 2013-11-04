@@ -29,7 +29,7 @@ body {
 }
 
 a {
-  color: #F8F8FF
+  color:  #000000;
 
 }
 
@@ -79,113 +79,115 @@ a {
 
 #about_trading{
   font-family:Arial;
-  background-color: #000000;
-  color: #FFFAFA;
+  background-color: #FFFAFA;
+  color:  #000000;
   width: 600px;
   margin: 0 auto;
   padding:6px 22px;
+  border: 1px solid black;
   border-radius:9px;
 }
 
 #about_webdeveloper{
   font-family:Arial;
-  background-color: #000000;
-  color: #FFFAFA;
+  background-color: #FFFAFA;
+  color:  #000000;
   width: 600px;
   margin: 0 auto;
-
+  border: 1px solid black;
   border-radius:9px;
 }
 
 #about_husband{
   font-family:Arial;
-  background-color: #000000;
-  color: #FFFAFA;
+  background-color: #FFFAFA;
+  color:  #000000;
   width: 600px;
   margin: 0 auto;
-
+  border: 1px solid black;
   border-radius:9px;
 
 }
 
 #about_webdeveloper{
   font-family:Arial;
-  background-color: #000000;
-  color: #FFFAFA;
+  background-color: #FFFAFA;
+  color:  #000000;
   width: 600px;
   margin: 0 auto;
-
+  border: 1px solid black;
   border-radius:9px;
 
 }
 
 #about_adopt{
   font-family:Arial;
-  background-color: #000000;
-  color: #FFFAFA;
+  background-color: #FFFAFA;
+  color:  #000000;
   width: 600px;
   margin: 0 auto;
-
+  border: 1px solid black;
   border-radius:9px;
 }
 
 #about_mudfish{
   font-family:Arial;
-  background-color: #000000;
-  color: #FFFAFA;
+  background-color: #FFFAFA;
+  color:  #000000;
   width: 600px;
   margin: 0 auto;
-
+  border: 1px solid black;
   border-radius:9px;
 }
 
 #about_skills{
   font-family:Arial;
-  background-color: #000000;
-  color: #FFFAFA;
+  background-color: #FFFAFA;
+  color:  #000000;
   width: 600px;
   margin: 0 auto;
-
+  border: 1px solid black;
   border-radius:9px;
 }
 
 #about_basketball{
   font-family:Arial;
-  background-color: #000000;
-  color: #FFFAFA;
+  background-color: #FFFAFA;
+  color:  #000000;
   width: 600px;
   margin: 0 auto;
+  border: 1px solid black;
   padding:6px 22px;
   border-radius:9px;
 }
 
 #about_ruby{
   font-family:Arial;
-  background-color: #000000;
-  color: #FFFAFA;
+  background-color: #FFFAFA;
+  color:  #000000;
   width: 600px;
   margin: 0 auto;
-
+  border: 1px solid black;
   border-radius:9px;
 }
 
 #about_rspec{
   font-family:Arial;
-  background-color: #000000;
-  color: #FFFAFA;
+  background-color: #FFFAFA;
+  color:  #000000;
   width: 600px;
   margin: 0 auto;
-
+  border: 1px solid black;
   border-radius:9px;
 }
 
 #about_testing{
   font-family:Arial;
-  background-color: #000000;
-  color: #FFFAFA;
+  background-color: #FFFAFA;
+  color:  #000000;
   width: 600px;
   margin: 0 auto;
-
+  border: 1px solid black;
   border-radius:9px;
 }
 
