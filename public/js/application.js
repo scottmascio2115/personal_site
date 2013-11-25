@@ -12,7 +12,8 @@ $(document).ready(function() {
   $("#about_ruby").hide();
   $("#about_rspec").hide();
   $("#about_testing").hide();
-  $('#about_trading').toggle();
+  $("#about_skizzledice").hide();
+  $('#about_trading').slideToggle("slow");
 
    });
 
@@ -28,7 +29,8 @@ $(document).ready(function() {
   $("#about_ruby").hide();
   $("#about_rspec").hide();
   $("#about_testing").hide();
-  $('#about_husband').toggle();
+  $("#about_skizzledice").hide();
+  $('#about_husband').slideToggle("slow");
 
    });
 
@@ -44,7 +46,8 @@ $(document).ready(function() {
   $("#about_ruby").hide();
   $("#about_rspec").hide();
   $("#about_testing").hide();
-  $('#about_webdeveloper').toggle();
+  $("#about_skizzledice").hide();
+  $('#about_webdeveloper').slideToggle("slow");
 
    });
 
@@ -60,7 +63,8 @@ $(document).ready(function() {
   $("#about_ruby").hide();
   $("#about_rspec").hide();
   $("#about_testing").hide();
-  $('#about_adopt').toggle();
+  $("#about_skizzledice").hide();
+  $('#about_adopt').slideToggle("slow");
 
    });
 
@@ -76,7 +80,8 @@ $(document).ready(function() {
   $("#about_ruby").hide();
   $("#about_rspec").hide();
   $("#about_testing").hide();
-  $('#about_mudfish').toggle();
+  $("#about_skizzledice").hide();
+  $('#about_mudfish').slideToggle("slow");
 
    });
 
@@ -92,7 +97,8 @@ $(document).ready(function() {
   $("#about_ruby").hide();
   $("#about_rspec").hide();
   $("#about_testing").hide();
-  $('#about_skills').toggle();
+  $("#about_skizzledice").hide();
+  $('#about_skills').slideToggle("slow");
 
    });
 
@@ -108,7 +114,8 @@ $(document).ready(function() {
   $("#about_ruby").hide();
   $("#about_rspec").hide();
   $("#about_testing").hide();
-  $('#about_basketball').toggle();
+  $("#about_skizzledice").hide();
+  $('#about_basketball').slideToggle("slow");
 
    });
 
@@ -124,7 +131,8 @@ $(document).ready(function() {
   $("#about_basketball").hide();
   $("#about_rspec").hide();
   $("#about_testing").hide();
-  $('#about_ruby').toggle();
+  $("#about_skizzledice").hide();
+  $('#about_ruby').slideToggle("slow");
 
    });
 
@@ -140,7 +148,8 @@ $(document).ready(function() {
   $("#about_basketball").hide();
   $("#about_ruby").hide();
   $("#about_testing").hide();
-  $('#about_rspec').toggle();
+  $("#about_skizzledice").hide();
+  $('#about_rspec').slideToggle("slow");
 
    });
 
@@ -156,7 +165,25 @@ $(document).ready(function() {
   $("#about_basketball").hide();
   $("#about_ruby").hide();
   $("#about_rspec").hide();
-  $('#about_testing').toggle();
+  $("#about_skizzledice").hide();
+  $('#about_testing').slideToggle("slow");
+
+   });
+
+  $("#about_skizzledice").hide();
+  $("#skizzledice").on('click', function(event){
+    event.preventDefault();
+  $("#about_trading").hide();
+  $("#about_husband").hide();
+  $("#about_webdeveloper").hide();
+  $("#about_adopt").hide();
+  $("#about_mudfish").hide();
+  $("#about_skills").hide();
+  $("#about_basketball").hide();
+  $("#about_ruby").hide();
+  $("#about_rspec").hide();
+  $("#about_testing").hide();
+  $('#about_skizzledice').slideToggle("slow");
 
    });
 
