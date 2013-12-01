@@ -7,6 +7,22 @@
   font-size: 200%;
 }
 
+#dialog-modal{
+  font-family:"Times New Roman",Georgia,Serif;
+  background-color: Beige;
+}
+
+
+
+.ui-dialog .ui-dialog-title{
+  font-family: 'Wellfleet', cursive;
+
+  font-size: 150%;
+  color: black;
+  border-radius: 20px;
+  padding:0px;
+}
+
 .container h1 {
   margin: 0 auto;
   margin-top: 0;

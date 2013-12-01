@@ -187,7 +187,12 @@ $(document).ready(function() {
 
    });
 
-
+  $(function() {
+    $( "#dialog-modal" ).dialog({
+      height: 600,
+      modal: true
+    });
+  });
 
 });
 
